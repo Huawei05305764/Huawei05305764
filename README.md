@@ -32,15 +32,6 @@
 ## 💬 Ask Me About
 Digital forensics triage • Chain-of-custody best practice • SCCM/Intune quirks • Teaching cyber-basics to non-tech teams
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_HANDLE>&show_icons=true&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<YOUR_HANDLE>&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_HANDLE>&layout=compact&hide_border=true" />
-</p>
-
 ## 🛠️ Languages & Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="40" height="40"/>
