@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/digital-forensics.png" alt="Forensics Icon" />
+  <img src="[https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/digital-forensics.png" alt="Forensics Icon](https://www.microtechinfy.co.in/wp-content/uploads/2022/10/End-User-Computing-1024-x-676-px-1-1024x676.jpg)" />
   <img src="https://img.icons8.com/color/64/000000/windows-11.png" alt="Windows 11 Icon" />
   <img src="https://img.icons8.com/color/64/000000/power-bi.png" alt="Power BI Icon" />
   <img src="https://img.icons8.com/color/64/000000/network-card.png" alt="Network Icon" />
