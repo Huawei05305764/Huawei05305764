@@ -1,61 +1,61 @@
-<!-- GitHub profile README for https://github.com/shaunbooysen -->
+# 👋 Hello, I'm Shaun Booysen
 
-<h1 align="center">Hi, I’m Shaun Booysen&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave"/></h1>
-
-<p align="center">
-  🔐 <strong>Lieutenant Colonel &nbsp;|&nbsp; Sub-Section Manager: Decentralised EUE & SLA</strong><br/>
-  South African Police Service (SAPS) &nbsp;•&nbsp; Port Elizabeth, South Africa :contentReference[oaicite:7]{index=7}
-</p>
+🎖️ **Lieutenant Colonel | Cyber Forensics Specialist | IT Operations Leader**  
+📍 Port Elizabeth, Eastern Cape, South Africa  
+📧 [shaunbooysen@yahoo.co.za](mailto:shaunbooysen@yahoo.co.za)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shaun-booysen-79012b82)
 
 ---
 
-## 🗂 Snapshot
-|  |  |
-|---|---|
-| **Industry tenure** | 26 + years in public-sector IT & cyber-forensics :contentReference[oaicite:8]{index=8} |
-| **Current role** | Managing the national **End-User Equipment & Service-Level Agreements** portfolio (80 000+ endpoints) since 2021 :contentReference[oaicite:9]{index=9} |
-| **Mission** | “Evidence loses value when people can’t trust the process – my mission is to keep that trust rock-solid.” :contentReference[oaicite:10]{index=10} |
-| **Education** | **BA Forensic Science & Technology**, University of South Africa (2016-2018) :contentReference[oaicite:11]{index=11} |
+## 💼 About Me
+
+I’m a **trusted protector of digital truth** with over **26 years** inside the **South African Police Service (SAPS)**, combining forensic expertise with operational IT leadership.  
+From covert cybercrime investigations to **managing over 80,000 devices** across 9 provinces, I believe **technology matters most when people trust the process** behind it.
+
+- 🛡️ **Integrity First**: Known for meticulous chain-of-custody and straight-talk in vendor management & investigations  
+- 🖥️ **Tech Hands-On**: From PowerShell audits to Windows 11 deployments and server architecture  
+- 👥 **Servant Leader**: Mentor to junior cyber investigators & cross-functional teams  
+- 📊 **Data Storyteller**: Build clear Power BI dashboards that reveal insights before incidents happen  
+- ☕ **Coffee-fueled** and calm under pressure
+
+> “Evidence loses value when people can’t trust the process – my mission is to keep that trust rock-solid.”
 
 ---
 
-## 💡 Focus Areas
-- Large-scale Windows 11 deployment & endpoint hardening  
-- Digital-evidence collection & chain-of-custody integrity  
-- Vendor, contract & SLA management across SAPS divisions  
-- Automating forensic workflows with **Python** & **PowerShell**
+## 🔧 Skills & Tools
+
+| 🧠 Top Skills           | 💻 Technologies       | 📊 Data & Reporting       |
+|------------------------|----------------------|---------------------------|
+| Forensic Analysis      | PowerShell           | Power BI                  |
+| Microsoft Office Suite | Windows 10/11 Rollout| Telemetry Interpretation  |
+| Customer Service       | SCCM, Intune         | Dashboard Development     |
+| SLA & Vendor Management| Cybersecurity        | Risk & Compliance Metrics |
 
 ---
 
-## 🛠 Preferred Tech
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" title="PowerShell"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" title="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" title="Power BI"/>
-</p>
+## 📚 Education
+
+🎓 **University of South Africa (UNISA)**  
+_BA in Forensic Science and Technology_ (2016 – 2018)
 
 ---
 
-## ✨ Core Skills
-`Forensic Analysis` • `Microsoft Office Automation` • `Customer Service` :contentReference[oaicite:12]{index=12}  
+## 📈 GitHub Goals
+
+- 🔐 Share practical scripts and tools from my forensic and IT operations work  
+- 💡 Document real-world insights from public sector IT deployments  
+- 🧑‍🏫 Mentor others by publishing learning resources & forensic case practices
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaunbooysen&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shaunbooysen&hide_border=true" alt="GitHub Streak"/>
-</p>
+## ✨ Let's Connect!
+
+Feel free to connect or reach out if you're into cybersecurity, IT deployment, or forensic tech:
+
+📬 [shaunbooysen@yahoo.co.za](mailto:shaunbooysen@yahoo.co.za)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/shaun-booysen-79012b82)
 
 ---
 
-## 📫 Connect
-<a href="mailto:shaunbooysen@yahoo.co.za"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/shaun-booysen-79012b82"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+> _“Curious by nature, calm under pressure, and fueled by strong coffee.”_
 
----
-
-<p align="center"><em>Always learning, always safeguarding digital truth.</em></p>
